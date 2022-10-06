@@ -4,7 +4,7 @@ sqlalchemy
 pydantic
 datetime
 http 
-streamlit as st
-pandas as pd
+streamlit
+pandas
 requests
 json
