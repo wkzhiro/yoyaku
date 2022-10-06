@@ -3,7 +3,6 @@ uvicorn
 sqlalchemy
 pydantic
 datetime
-http 
 streamlit
 pandas
 requests
